@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/New_Portfilio/static/css/main.e3d22083.css",
+    "main.js": "/New_Portfilio/static/js/main.974bd1c9.js",
+    "static/media/DressUp.jpg": "/New_Portfilio/static/media/DressUp.8cef18f457db8276a9af.jpg",
+    "static/media/realestate.jpg": "/New_Portfilio/static/media/realestate.ed1307054494f6c1403f.jpg",
+    "static/media/Timeout.jpg": "/New_Portfilio/static/media/Timeout.2c82a3d3302c284f04c8.jpg",
+    "static/media/blockchain.jpg": "/New_Portfilio/static/media/blockchain.28ecf63614fee2140936.jpg",
+    "static/media/scorekeeper.png": "/New_Portfilio/static/media/scorekeeper.91c706d35f8de19df7fc.png",
+    "static/media/B&W.jpg": "/New_Portfilio/static/media/B&W.aaab7321fb5431b87f5c.jpg",
+    "static/media/25096.png": "/New_Portfilio/static/media/25096.d65c38bb01389bee9015.png",
+    "index.html": "/New_Portfilio/index.html",
+    "main.e3d22083.css.map": "/New_Portfilio/static/css/main.e3d22083.css.map",
+    "main.974bd1c9.js.map": "/New_Portfilio/static/js/main.974bd1c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3d22083.css",
+    "static/js/main.974bd1c9.js"
+  ]
+}
