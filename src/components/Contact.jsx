@@ -12,7 +12,7 @@ const Contact = () => {
             <h1 className='text-[25px] font-light font-Athiti text-white'>Get In Touch</h1>
             <form method='POST' action="https://getform.io/f/1ff721c4-0000-4e8f-aa68-1d74d53ace19" className='flex flex-col max-w-[600px] w-full sm:white-space:nowrap py-8'>
             {/* Add style to align placeholder text to the left */}
-            <input className='bg-[#999999] w-[500px] px-2 py-2 rounded-sm ' type="text" placeholder='Name' name='name' style={{textAlign: 'left'}} />
+            <input className='bg-[#999999] w-[450px] px-2 py-2 rounded-sm ' type="text" placeholder='Name' name='name' style={{textAlign: 'left'}} />
             <input className='my-4 py-2 bg-[#999999] px-2 rounded-sm ' type="email" placeholder='Email' name='email' style={{textAlign: 'left'}} />
             <textarea className='bg-[#999999] px-2 py-2 border rounded-sm ' name="message" rows="10" placeholder='Message' style={{textAlign: 'left'}}></textarea>
             <div className='py-4'>
