@@ -12,9 +12,15 @@ const Footer = () => {
         <p className='text-[#999999] text-[16px] font-light '>Copyright © 2024 | Made With <span className='text-[#BAC964]'>React Js</span></p>
       </div>
       <div className='flex justify-center text-[#BAC964] pt-8'>
+        <a href='https://github.com/Prakash-zyzz'>
         <FaGithub fontSize={35} className='cursor-pointer'  />
+        </a>
+        <a href='https://www.linkedin.com/in/prakash-g-499524282/'>
         <FaLinkedin fontSize={35} className='mx-10 cursor-pointer' />
+        </a>
+        <a href='https://drive.google.com/file/d/1ZM6a6OHhjKjY0L3-gIQ1AREyQRiNg9Fd/view?usp=drive_link'>
         <IoMdDocument fontSize={35} className='cursor-pointer' />
+        </a>
         
       </div>
       <div className='flex justify-center py-2'>

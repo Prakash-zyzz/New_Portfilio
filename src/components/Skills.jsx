@@ -25,7 +25,7 @@ const LOGOS = [
 const Skills = () => {
  return (
   <div name="skills">
-    <h1 className='bg-black pt-24 bg-opacity-85 text-[30px] m-auto font-light flex justify-center text-white font-Athiti '>My <span className='font-extrabold ml-2'>Skills</span></h1>
+    <h1 className='bg-black pt-20 bg-opacity-85 text-[30px] m-auto font-light flex justify-center text-white font-Athiti '>My <span className='font-extrabold ml-2'>Skills</span></h1>
   <div className='w-full h-[400px] flex items-center justify-between bg-black bg-opacity-85'>
   <div className="relative items-center p-8 m-auto w-[1100px] overflow-hidden before:absolute before:left-0 before:top-0 before:z-[2] before:h-full before:w-[100px] before:bg-gradient-to-r from- to- before:content-[''] after:absolute after:right-0 after:top-0 after:z-[2] after:h-full after:w-[100px] after:-scale-x-100 after:bg-[linear-gradient(to_right,_100%)] after:content-['']">
   <div className="animate-infinite-slider flex w-[calc(250px*10)]">
